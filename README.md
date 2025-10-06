@@ -13,7 +13,7 @@ Production, code, and style — all in one mindset.
 ## 🧰 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,vscode" alt="Tech Stack"; width=350px />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,vscode" alt="Tech Stack"; width=300px />
 </p>
 
 ---
