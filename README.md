@@ -47,5 +47,6 @@ Production, code, and style — all in one mindset.
 </h4>
 
 <p align="center">
-  <img src="https://reddit.com/r/batman/comments/1gr63gd/i_made_32_x_32_batman_pixel_art" alt="batman" width="80px" />
+  <img src="https://i.redd.it/abc123xyz.png" alt="batman" width="80px" />
 </p>
+
