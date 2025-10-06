@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,linux" alt="Other Skills" />
+    <img src="https://skillicons.dev/icons?i=git,figma," alt="Other Skills" />
   </a>
 </p>
 
