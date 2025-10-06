@@ -1,4 +1,4 @@
-![image](https://github.com/H4rris0nDev/H4rris0nDev/blob/35c5d2f4e42db4a9864f126f1b48759a8fe78d3a/image.png)
+![image](https://github.com/H4rris0nDev/H4rris0nDev/blob/142aeb9d44845400de78b180939e60d1c083fe38/image.png)
 
 <h1 align="center">👋 Sup, I'm Son!</h1>
 
