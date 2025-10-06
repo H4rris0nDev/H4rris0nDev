@@ -47,6 +47,5 @@ Production, code, and style — all in one mindset.
 </h4>
 
 <p align="center">
-  <img src="https://i.redd.it/abc123xyz.png" alt="batman" width="80px" />
+  <img src="https://pngfre.com/wp-content/uploads/batman-66.png" alt="Batman" width="80px" />
 </p>
-
