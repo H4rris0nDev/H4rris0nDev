@@ -39,38 +39,8 @@ Produção, código e estética — tudo no mesmo pacote</p>
 ---
 
 ## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=seuusuario&theme=dracula&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&theme=dracula&layout=compact" alt="Top Languages" />
+  <p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=H4rris0nDev&theme=dracula&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4rris0nDev&theme=dracula&layout=compact" alt="Top Languages" />
 </p>
-
----
-
-## 🌐 Contatos & Redes Sociais
-
-<p align="center">
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/seutwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  💻 <strong>Sempre aprendendo, criando e evoluindo!</strong><br>
-  🌱 “A melhor forma de prever o futuro é criá-lo.”
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Coding GIF"/>
 </p>
