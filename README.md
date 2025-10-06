@@ -24,7 +24,7 @@ Gosto de aprender novas linguagens, explorar tecnologias e criar projetos único
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,arduino,c,cpp,nodejs,express,electron,npm,zig,lua,flutter,dart,cloudflare,sqlite,docker" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=git,github," alt="Skills" />
   </a>
 </p>
 
