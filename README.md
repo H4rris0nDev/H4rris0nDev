@@ -1,21 +1,39 @@
-# sonnlss
+<h1 align="left">Hey 👋 What's up?</h1>
 
-**Localização:** Brasil  
-**Status:** Em breve / Em desenvolvimento
+###
 
-## Sobre
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
-Este perfil (“sonnlss”) ainda está em fase inicial e indica que novidades estão por vir.  
-Atualmente, a página está com o aviso **“Coming soon.”**, sugerindo futura entrega de conteúdo ou lançamento.
+###
 
-## Possíveis objetivos deste repositório / perfil
+<h2 align="left">About me</h2>
 
-- Servir como portfólio digital no futuro  
-- Agregar projetos pessoais, conteúdo criativo ou profissional  
-- Mostrar trabalhos ou lançamentos que serão divulgados posteriormente  
-- Canal de contato ou presença online para marca pessoal
+###
 
-## Estrutura sugerida
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-Quando o conteúdo for adicionado, a estrutura do repositório ou site pode seguir algo como:
+###
 
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
