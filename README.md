@@ -46,6 +46,7 @@ Production, code, and style — all in one mindset.
   Code. Build. Repeat.
 </h4>
 
+
 <p align="center">
-  <img src="https://pngfre.com/wp-content/uploads/batman-66.png" alt="Batman" width="80px" />
+  <img src="https://www.deviantart.com/marcopolo157/art/Thorfinn-Karlsefni-Vinland-Saga-PNG-Render-1047246805" alt="Thorfinn" width="80px" />
 </p>
