@@ -1,4 +1,6 @@
-<h1 align="center">👋 Sup, I'm <span style="color:#8A2BE2;">Son</span></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Son;Fullstack+Developer;Hello+World" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   💡 Desenvolvedor curioso e criativo que ama transformar ideias em código.<br>
@@ -21,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma," alt="Other Skills" />
+    <img src="https://skillicons.dev/icons?i=git,figma,linux" alt="Other Skills" />
   </a>
 </p>
 
