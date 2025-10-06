@@ -1,12 +1,53 @@
-![banner](https://github.com/Niximkk/Niximkk/assets/85513545/f341d119-f288-4f73-a499-63ec67826a73)
+![banner](https://github.com/Niximkk/Niximkk/blob/main/ChatGPT%20Image%206%20de%20out.%20de%202025%2C%2009_55_19.png)
+
+<h1 align="center">👋 Sup, I'm Son!</h1>
+
+<p align="center">
+Sou um desenvolvedor curioso e criativo que ama transformar ideias em código.  
+Gosto de aprender novas linguagens, explorar tecnologias e criar projetos únicos!
+</p>
+
+---
+
+## 🧠 Tecnologias e Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,arduino,c,cpp,nodejs,express,electron,npm,py,zig,lua,flutter,dart,html,css,js,vscode,cloudflare,sqlite,docker" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=vscode,py,css,html,js,java" alt="Tech Icons" />
   </a>
 </p>
 
+---
+
+## ⚙️ Outras Skills
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=niximkk&theme=dracula&show_icons=true&include_all_commits=true" alt="Niximkk's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niximkk&theme=dracula&layout=compact" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,arduino,c,cpp,nodejs,express,electron,npm,zig,lua,flutter,dart,cloudflare,sqlite,docker" alt="Skills" />
+  </a>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Niximkk&theme=dracula&show_icons=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niximkk&theme=dracula&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://github.com/Niximkk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  💻 Sempre aprendendo, criando e evoluindo!
 </p>
