@@ -1,10 +1,14 @@
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Son;Fullstack+Developer;Hello+World" alt="Typing SVG" /> </h1>
 
 <p align="center">
-  💡 Desenvolvedor curioso e criativo que transforma ideias em código.<br>
-  🚀 Aprendendo novas linguagens, explorando tecnologias e criando projetos incríveis!
-</p>
+  Olá! 👋 Eu sou [Seu Nome], um desenvolvedor **Fullstack** apaixonado por tecnologia e inovação.  
+  Adoro transformar ideias em código e criar experiências digitais únicas.  
 
+  🌱 Atualmente, estou me aprofundando em **React, Node.js e DevOps**, mas sempre curioso para aprender novas tecnologias.  
+  💡 Acredito que a programação não é apenas sobre escrever código, mas sobre **resolver problemas e contar histórias** através da tecnologia.  
+
+  🎯 Meus objetivos: criar projetos impactantes, contribuir para a comunidade open-source e nunca parar de evoluir!  
+</p>
 ---
 
 ## 🧰 Tecnologias & Ferramentas
