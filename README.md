@@ -1,4 +1,4 @@
-![image]([https://github.com/Niximkk/Niximkk/blob/main/ChatGPT%20Image%206%20de%20out.%20de%202025%2C%2009_55_19.png](https://github.com/H4rris0nDev/H4rris0nDev/blob/35c5d2f4e42db4a9864f126f1b48759a8fe78d3a/image.png))
+![image](https://github.com/H4rris0nDev/H4rris0nDev/blob/35c5d2f4e42db4a9864f126f1b48759a8fe78d3a/image.png)
 
 <h1 align="center">👋 Sup, I'm Son!</h1>
 
