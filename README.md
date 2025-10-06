@@ -1,17 +1,17 @@
-<h1 align="center">Sup,👋 I'm Son</h1>
-<br>
+<h1 align="center">👋 Sup, I'm <span style="color:#8A2BE2;">Son</span></h1>
+
 <p align="center">
-Sou um desenvolvedor curioso e criativo que ama transformar ideias em código.  
-Gosto de aprender novas linguagens, explorar tecnologias e criar projetos únicos!
+  💡 Desenvolvedor curioso e criativo que ama transformar ideias em código.<br>
+  🚀 Sempre aprendendo novas linguagens, explorando tecnologias e criando projetos únicos!
 </p>
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## 🧠 Tecnologias & Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,py,css,html,js,java" alt="Tech Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,vscode" alt="Tech Stack" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@ Gosto de aprender novas linguagens, explorar tecnologias e criar projetos único
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github," alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=git,figma,linux" alt="Other Skills" />
   </a>
 </p>
 
@@ -30,21 +30,23 @@ Gosto de aprender novas linguagens, explorar tecnologias e criar projetos único
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Niximkk&theme=dracula&show_icons=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Niximkk&theme=dracula&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niximkk&theme=dracula&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Onde Me Encontrar
 
 <p align="center">
-  
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hs482075@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  💻 Sempre aprendendo, criando e evoluindo!
+  💻 <strong>Sempre aprendendo, criando e evoluindo!</strong><br>
+  🌱 “A melhor forma de prever o futuro é criá-lo.”
 </p>
