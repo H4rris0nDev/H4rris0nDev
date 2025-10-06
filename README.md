@@ -1,25 +1,21 @@
-package main
+# sonnlss
 
-import (
-	"fmt"
-)
+**Localização:** Brasil  
+**Status:** Em breve / Em desenvolvimento
 
-type Bio map[string]string
+## Sobre
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+Este perfil (“sonnlss”) ainda está em fase inicial e indica que novidades estão por vir.  
+Atualmente, a página está com o aviso **“Coming soon.”**, sugerindo futura entrega de conteúdo ou lançamento.
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
-	}
-}
+## Possíveis objetivos deste repositório / perfil
+
+- Servir como portfólio digital no futuro  
+- Agregar projetos pessoais, conteúdo criativo ou profissional  
+- Mostrar trabalhos ou lançamentos que serão divulgados posteriormente  
+- Canal de contato ou presença online para marca pessoal
+
+## Estrutura sugerida
+
+Quando o conteúdo for adicionado, a estrutura do repositório ou site pode seguir algo como:
+
