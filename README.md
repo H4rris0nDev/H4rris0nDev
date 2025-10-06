@@ -1,7 +1,7 @@
 
 ![image](https://github.com/H4rris0nDev/H4rris0nDev/blob/142aeb9d44845400de78b180939e60d1c083fe38/image.png)
 
-<h1>Sup,👋 I'm Son</h1>
+<h1 align="center">Sup,👋 I'm Son</h1>
 <br>
 <p align="center">
 Sou um desenvolvedor curioso e criativo que ama transformar ideias em código.  
