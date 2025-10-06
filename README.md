@@ -2,12 +2,11 @@
 
 ---
 
-##  Sobre Mim
-<br>
-<p align="justify">Desenvolvedor com foco em performance e design funcional.
-Trabalho com front e back-end, criando soluções 
-limpas e rápidas.
-Produção, código e estética — tudo no mesmo pacote.</p>
+### About
+Developer focused on performance, clean design, and functional code.  
+I work across front-end and back-end, creating efficient and modern digital experiences.  
+Production, code, and style — all in one mindset.
+
 
 ---
 
