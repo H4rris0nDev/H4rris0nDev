@@ -5,12 +5,11 @@
 <p align="center">Desenvolvedor com foco em performance e design funcional.
 Trabalho com front e back-end, criando soluções limpas e rápidas.
 Produção, código e estética — tudo no mesmo pacote</p>
----
 
 ## 🧰 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,nodejs,react,vue,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,vscode" alt="Tech Stack" />
 </p>
 
 ---
