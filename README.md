@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Olá+Mundo!;Sou+Fullstack+Developer;Codificando+Com+Paixão" alt="Typing SVG" />
-</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Son;Fullstack+Developer;Hello+World" alt="Typing SVG" /> </h1>
 
 <p align="center">
   💡 Desenvolvedor curioso e criativo que transforma ideias em código.<br>
