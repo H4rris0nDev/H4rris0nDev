@@ -45,7 +45,3 @@ Production, code, and style — all in one mindset.
 <h4 align="center">
   Code. Build. Repeat.
 </h4>
-
-<p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c7bced49-73a3-43c1-b3ce-fe419a596a72/dhbi4jo-2f1811dd-4235-4945-932a-1c33b3f2dad7.png/v1/fill/w_1065,h_750/thorfinn_karlsefni_vinland_saga_png_render__by_marcopolo157_dhbi4jo-pre.png" alt="Thorfinn Karlsefni" width="80px" />
-</p>
