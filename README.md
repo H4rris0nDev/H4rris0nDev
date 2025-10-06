@@ -4,9 +4,9 @@
 
 ##  Sobre Mim
 <br>
-Desenvolvedor com foco em performance e design funcional.
+<p align="justify">Desenvolvedor com foco em performance e design funcional.
 Trabalho com front e back-end, criando soluções limpas e rápidas.
-Produção, código e estética — tudo no mesmo pacote
+Produção, código e estética — tudo no mesmo pacote.</p>
 
 ---
 
