@@ -33,3 +33,15 @@ Production, code, and style — all in one mindset.
 </p>
 
 ---
+
+<h3 align="center">
+  <a href="https://github.com/H4rris0nDev">
+    <img src="https://img.shields.io/badge/View%20Projects-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</h3>
+
+---
+
+<h4 align="center">
+  Code. Build. Repeat.
+</h4>
