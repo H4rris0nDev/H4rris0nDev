@@ -17,7 +17,7 @@ Produção, código e estética — tudo no mesmo pacote</p>
 ## 🛠 Outras Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma" alt="Other Skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma" alt="Other Skills" />
 </p>
 
 ---
