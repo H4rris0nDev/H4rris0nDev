@@ -20,24 +20,6 @@ Produção, código e estética — tudo no mesmo pacote</p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,figma" alt="Other Skills" />
 </p>
 
----
-
-## 🌟 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/seuusuario/projeto1" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto1-Clique_aqui-brightgreen?style=for-the-badge" alt="Projeto 1"/>
-  </a>
-  <a href="https://github.com/seuusuario/projeto2" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto2-Clique_aqui-blue?style=for-the-badge" alt="Projeto 2"/>
-  </a>
-  <a href="https://github.com/seuusuario/projeto3" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto3-Clique_aqui-yellow?style=for-the-badge" alt="Projeto 3"/>
-  </a>
-</p>
-
----
-
 ## 📊 Estatísticas do GitHub
   <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=H4rris0nDev&theme=dracula&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
