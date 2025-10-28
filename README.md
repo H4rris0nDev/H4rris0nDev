@@ -28,8 +28,8 @@ Production, code, and style — all in one mindset.
 
 ## 📊 GitStats
   <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=H4rris0nDev&theme=dracula&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4rris0nDev&theme=dracula&layout=compact" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hyaakk&theme=dracula&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyaakk&theme=dracula&layout=compact" alt="Top Languages" />
 </p>
 
 ---
